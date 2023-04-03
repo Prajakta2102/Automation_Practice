@@ -29,7 +29,7 @@ public class Synchronization_ImplicitWait
 
     String GetCertifiedbtn_txt=driver.findElement(By.xpath("//a[contains(text(),'Get Certified')][1]")).getText();
     System.out.println(GetCertifiedbtn_txt);
-	
+    System.out.println("Hello ,GIT");
 	}
 
 }
