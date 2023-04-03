@@ -43,7 +43,7 @@ public class TakesScreenshotpro
        
         captureScreenshot(driver);
         
-        
+        System.out.println("Hello ,GIT");
         
         
         /*TakesScreenshot-->interface in selenium pkg
